@@ -41,8 +41,10 @@ Solving problems for the members such as
 ### Has this app encountered any frequent problems, both member side and staff side, were you able to fix it? If so how?
 [fixed] Members can open the app to see frozen blank white screen. <br>
 > Fixed by notifying the backend developers at the contracted company.
+
 [fixed] QR for payment doesn't load <br>
 > Fixed by notifying the backend developers at the contracted company.
+
 [unfixable] High OS version requirement <br>
 <br>
 > Note: The developers at the contracted company tend to have slow respond time.
