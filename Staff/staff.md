@@ -83,6 +83,6 @@ Have there been any systems prior to this? If so, how do both of them differ fro
 * There was only a reservation system that operate only at the office which used Microsoft access
 > Worked by scanning the citizen card and it will print out a reservation card.
 * The staffs view both as being good in their own rights.
-> Access helps improve management and reporting, but members have to reserve at the office
+> Access helps improve management and reporting, but members have to reserve at the office <br>
 > CSTD Let members reserve from anywhere and not have to pay in cash, but makes it harder to manage and report as the revenue needs to be separated from online transfer and cash before reporting 
 
