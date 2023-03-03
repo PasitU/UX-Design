@@ -36,7 +36,7 @@ Solving problems for the members such as
 ### How do you feel about this system the first time you used it?
 * Felt like the system is incomplete as the government staffs were and still are able to manage only 50% of the system and 50% is maintained by a private company who were contracted to develop the system
 * Felt like the system is unpolished as the systems had many bugs and technical problems that were fixed only when encountered
-* Felt like it doesn't align with the needs of the users
+* Felt like it doesn't address all of the needs of the users such as being able to make a day-to-day reservation.  
 * Felt upset as when a bug or a technical problem was found, it usually took long time to be addressed and fixed by the contracted private company
 
 ### Has this app encountered any frequent problems, both member side and staff side, were you able to fix it? If so how?
